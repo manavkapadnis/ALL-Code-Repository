@@ -8,4 +8,4 @@ To build a repository with really diverse projects and create a 'Project Reserve
 
 ## Contributing Guidelines & Steps to contribute📕
 
-Check out the Contribution guidelines [here](https://github.com/DSCVITBHOPAL/ML-Reserve/blob/main/CONTRIBUTING.md)
+Check out the Contribution guidelines [here](https://github.com/manavkapadnis/ML-Code-Repository/blob/main/CONTRIBUTING.md)
