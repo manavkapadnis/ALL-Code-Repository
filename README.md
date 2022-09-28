@@ -9,3 +9,12 @@ To build a repository with really diverse projects and create a 'Project Reserve
 ## Contributing Guidelines & Steps to contribute📕
 
 Check out the Contribution guidelines [here](https://github.com/manavkapadnis/ML-Code-Repository/blob/main/CONTRIBUTING.md)
+
+
+## Folder Structure📁
+
+The below given folder structure should be followed while contributing to the project.</br>
+
+<p align="left">
+<img src="Folder Structure.png" alt="drawing" width="500"/>
+</p>
